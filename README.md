@@ -28,6 +28,7 @@ Although the template has a design like none other, it is easily customizable to
 StarAdmin is designed to work flawlessly with all the latest and modern web browsers.
 
 - Chrome (latest )
+- Explorer (latest)
 - FireFox (latest )
 - Safari (latest )
 - Opera (latest ) 
